@@ -11,8 +11,8 @@ Hi there! 👋 I'm a passionate and results-driven **MERN Stack Developer** with
 ✅ **MERN Stack Expertise** – MongoDB, Express.js, React.js, Node.js  
 ✅ **Frontend Mastery** – React.js, Next.js, Redux, Tailwind CSS, Material-UI  
 ✅ **Backend Prowess** – RESTful APIs, Authentication (OAuth, JWT)  
-✅ **Database Management** – MongoDB (NoSQL), PostgresSQL, MySQL
-✅ **DevOps & Deployment** – Vercel, CI/CD Pipelines
+✅ **Database Management** – MongoDB (NoSQL), PostgresSQL, MySQL  
+✅ **DevOps & Deployment** – Vercel, CI/CD Pipelines  
 ✅ **Performance Optimization** – Speed, Security, and Scalability  
 ✅ **Team Collaboration** – Agile/Scrum Methodologies, Git, 
 
